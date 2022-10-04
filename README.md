@@ -73,7 +73,7 @@ Note: If configured `playwright.config.ts` with `projects`, then cannot use the 
 
 # Directories 
 ```
-roam-qa-automation-framework-internal
+Playwright-demo
 ├── .github
 ├── tests
 │   ├── lib
