@@ -1,0 +1,19 @@
+# dependencies
+node_modules
+mochawesome-report
+.nyc_output/
+coverage/
+allure-report/
+allure-results/
+.vscode/
+# npm
+.npmrc
+*.log
+.DS_Store
+yarn.lock
+codeLab/
+Screenshot
+videos
+/test-results/
+/playwright-report/
+/playwright/.cache/
