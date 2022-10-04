@@ -66,9 +66,7 @@ When you <br/>
 `npx playwright test --project=webkit` > Running only in `webkit`<br/>
 
 If you not config any `playwright.config.ts` then you want to run only in one browser <br/>
-`npx playwright test --browser=webkit` > Running only in `webkit`<br/> 
-`npx playwright test --browser all` > Running in all defult browsers<br/>
-Note: If configured `playwright.config.ts` with `projects`, then cannot use the `--browser` as argument. you have to use the `--project` as argument<br/>
+`npx playwright test --project=webkit` > Running only in `webkit`<br/> 
 <br/>
 
 # Directories 
