@@ -1,5 +1,5 @@
 # Playwrite-Demo
-Hi!!, This framework designed using `Playwright` and `allure-report`<br/>
+Hi!!, This framework designed using `Playwright`<br/>
 
 # What is Playwright Test? framework for E2E test<br/>
 ## Whats include in Playwright test out of box<br/>
@@ -8,7 +8,7 @@ Hi!!, This framework designed using `Playwright` and `allure-report`<br/>
 - Cross-browser, snapshots, fixtures, ...<br/>
 - Time-travel debugging <br/>
 - Smart Selector `sudo` classes<br/>
-Open Source - Free<br/>
+- Open Source - Free<br/>
 
 <br/>
 
